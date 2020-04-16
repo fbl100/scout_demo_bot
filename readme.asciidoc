@@ -1,0 +1,29 @@
+# Marvin The Discord Bot
+This is the source code for Marvin the discord robot.
+
+These are the meeting slides:
+https://docs.google.com/presentation/d/1VXgIUWfV-vPJ0Sb7eAr7EoN8tblYUIBQu9GwokUZVDk/edit?usp=sharing
+
+To run this robot, you will need to create your own discord server and generate a bot token.  Both
+are free, but require your parent's permission.
+
+The best way to get started programming is to jump in and try stuff.  Discord bots are a fun
+way to experiment, while learning new skills at the same time.  I highly recommend starting 
+with the guide at https://discordjs.guide/.  I have found that Visual Studio code works well for 
+both Javascript and Python.  This project is in Javascript.
+
+If you would like to modify Marvin as part of the programming merit badge, feel free.  I am willing
+to work with you to get your environment setup.
+
+To run marvin on your local machine (after you have installed node.js), you need to install two extra packages.  Do this by typing
+
+```
+npm install discord.js
+npm install fs
+```
+
+once you have done that, you should be able to run
+```
+node bot.js
+```
+
