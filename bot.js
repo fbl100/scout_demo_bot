@@ -128,4 +128,4 @@ function process8BallCommand(receivedMessage) {
 
 }
 
-client.login('Njk5NDE2MDc3NTc0MjA5NjE2.XpXaQg.VCACoB1zgS4Xe_lUx6j0FOxDya4');
+client.login('your-token-here');
